@@ -35,7 +35,7 @@ porxy       : Proxy
 """
 ```
 
-### Google Dorking Module (1.0)
+### Google Dorking Module (1.3)
 ```python
 from badpy import * # importing badpy module
 
@@ -46,7 +46,7 @@ n = dork("http://thesaderror.cf/",False) # this is for make output simple. And y
 print(n)
 ```
 
-### IP Information Gathering (1.1)
+### IP Information Gathering (1.3)
 ```python
 from badpy import * # importing badpy module
 
@@ -65,6 +65,13 @@ mobile      : Mobile
 operator    : Operator (isp)
 porxy       : Proxy
 """
+```
+### Discord Spammer (1.4)
+```python
+from badpy import * # importing badpy module
+
+dcspam('yourdiscordwebhookurl','messagetospam')
+#this command will spam with webhook. It is Usefully! LOL.
 ```
 
 ## Contact : 
