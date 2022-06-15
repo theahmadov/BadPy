@@ -1,4 +1,4 @@
-[# badpy (Created By Error)
+# badpy (Created By Error)
 
 badpy is a python package with modules required for hacking.
 
@@ -8,6 +8,8 @@ Use the package manager pip3 to install badpy.
 
 ```bash
 pip3 install badpy
+# if module not working  try this : 
+pip install badpy==1.6 --upgrade
 ```
 
 ## Usage
@@ -80,10 +82,11 @@ Gmail   : syntaxerrorses@gmail.com
 
 # Log :
 ```
-[1.0] Dork Module
+[1.3] Dork Module
+[1.3] IP Information Gathering
+[1.4] Discord Spammer
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # For Educational Purposes
-](https://pypi.org/project/badpy/1.5/)
