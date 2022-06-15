@@ -1,4 +1,4 @@
-# badpy (Created By Error)
+[# badpy (Created By Error)
 
 badpy is a python package with modules required for hacking.
 
@@ -86,3 +86,4 @@ Gmail   : syntaxerrorses@gmail.com
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # For Educational Purposes
+](https://pypi.org/project/badpy/1.5/)
